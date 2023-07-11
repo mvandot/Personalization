@@ -8,10 +8,10 @@ Automated sending personalized documents to a long list of recepeints on a weekl
 
 ## Description
 1. `personalization.py` script reads csv file from the first argument and generates personalization for each row. 
-2. `personalization-done.csv` is then created with personalization details.
+2. `personalization-done.csv` is then created with all the details of the personalization.
 
 ## Installation
-Replace <token> with your personal Turtl token inside `personalization.py`
+Replace `<token>` with your personal Turtl token inside `personalization.py`
 
 ## Steps to follow
 
